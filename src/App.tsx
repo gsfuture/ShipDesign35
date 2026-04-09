@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="app">
       <h1>ShipDesign35 React App</h1>
-      <p>欢迎使用 React + TypeScript + Vite 基础框架 you are good 7777</p>
+      <p>欢迎使用 React + TypeScript + Vite 基础框架 you are good 7777 9999</p>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
